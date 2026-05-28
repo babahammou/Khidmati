@@ -76,7 +76,31 @@ and sustainable digital economy in Algeria.
 
 **Quick Links:**
 - [English Abstract](#abstract) | [Arabic Abstract](#ملخص)
-- [Table of Contents](./.md)
+- [Table of Contents](./contents/TableOfContents.md)
 
+## 📄 Citation
 
+Please,If you use this project, its architectural layout, system engineering models, or source code in your academic work, please attribute our dissertation using one of the following citation formats:
+#### IEEE Format
+```text
+Babahammou, O., & Felkat, S. (2026). "Design and Development of a Web Platform for Brokerage in Craft Services: Khidmati". Bachelor's dissertation, University Kasdi Merbah Ouargla.
+```
+
+#### BibTeX (For LaTeX / Overleaf Documents) :
+``` 
+@thesis{khidmati2026,
+  author       = {Babahammou, Otmane and Felkat, Sendesse},
+  title        = {Design and Development of a Web Platform for Brokerage in Craft Services: Khidmati},
+  type         = {Bachelor's dissertation},
+  institution  = {University Kasdi Merbah Ouargla},
+  department   = {Department of Computer Science and Information Technology},
+  school       = {Faculty of New Information and Communication Technologies},
+  year         = {2026},
+  address      = {Ouargla, Algeria},
+  month        = {May}
+}
+```
+## 📄 License
+
+Please read the [Copyright & License Information](./LICENSE) before using this document.
 
